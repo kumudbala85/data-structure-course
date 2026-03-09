@@ -1,3 +1,3 @@
 # data-structure-course
 data structure
-kumudbala saxena1gi
+kumudbala saxena and rahneesh hajel
